@@ -23,9 +23,6 @@ CNAME records:
   - name: cari-kata
     value: cname.vercel-dns.com
     proxy: false
-  - name: sebastian
-    value: cname.vercel-dns.com #Change this later
-    proxy: false
 
 # NS records are used to specify the authoritative name servers for the zone.
 # If you are unsure what NS records do, we recommend using CNAME records instead.
@@ -42,6 +39,9 @@ NS records:
     ttl: "14400"
   - name: test
     value: ns4.test.org
+    ttl: "14400"
+  - name: sebastian
+    value: ns0.1984.is
     ttl: "14400"
 
 # The following domain names are reserved and should not be modified.
