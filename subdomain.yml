@@ -48,4 +48,6 @@ Reserved records:
   - name: api
   - name: io-today
   - name: logo
-  - name: io.today
+  - name: io.todaday
+  - name: io.day
+  - name: io-day
