@@ -40,9 +40,23 @@ NS records:
   - name: test
     value: ns4.test.org
     ttl: "14400"
+# ----------------------
   - name: sebastian
     value: ns0.1984.is
     ttl: "14400"
+  - name: sebastian
+    value: ns1.1984hosting.com
+    ttl: "14400"
+  - name: sebastian
+    value: ns1.1984.is
+    ttl: "14400"
+  - name: sebastian
+    value: ns2.1984hosting.com
+    ttl: "14400"
+  - name: sebastian
+    value: ns2.1984.is
+    ttl: "14400"
+# ----------------------
 
 # The following domain names are reserved and should not be modified.
 Reserved records:
