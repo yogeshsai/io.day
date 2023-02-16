@@ -1,8 +1,8 @@
 import CloudFlare
 import yaml
 
-# Load API Key from key.yml
-with open('misc\key.yml') as file:
+# Load API Key from api.yml
+with open('misc\api.yml') as file:
     api_data = yaml.safe_load(file)
     api_key = api_data['api_key']
     zone_id = api_data['zone_id']
