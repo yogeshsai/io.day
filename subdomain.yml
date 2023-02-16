@@ -23,6 +23,9 @@ CNAME records:
   - name: cari-kata
     value: cname.vercel-dns.com
     proxy: false
+  - name: sebastian
+    value: cname.vercel-dns.com #Change this later
+    proxy: false
 
 # NS records are used to specify the authoritative name servers for the zone.
 # If you are unsure what NS records do, we recommend using CNAME records instead.
