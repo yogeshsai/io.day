@@ -13,9 +13,6 @@
 # The list below is subdomain currently used.
 # We recommend you to use CNAME records.
 # Please add custom domain in this zone.
-
-# Domain Wanted : gravity.io.day 
-
 CNAME records:
   - name: test
     value: test.com
