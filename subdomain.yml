@@ -24,7 +24,7 @@ CNAME records:
     value: cname.vercel-dns.com
     proxy: false
   - name: gravity
-    value: cname.vercel-dns.com
+    value: usegravitytool.vercel.app
     proxy: false
 
 # NS records are used to specify the authoritative name servers for the zone.
