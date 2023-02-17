@@ -26,6 +26,9 @@ CNAME records:
   - name: gravity
     value: cname.vercel-dns.com
     proxy: false
+  - name: cari-kata
+    value: cname.vercel-dns.com
+    proxy: false
   
 
 # NS records are used to specify the authoritative name servers for the zone.
@@ -43,13 +46,6 @@ NS records:
     ttl: "14400"
   - name: test
     value: ns4.test.org
-    ttl: "14400"
-    # --------------------------
-  - name: gravity
-    value: ns1.vercel-dns.com
-    ttl: "14400"
-  - name: gravity
-    value: ns2.vercel-dns.com
     ttl: "14400"
   
 
