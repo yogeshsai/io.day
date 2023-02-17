@@ -17,19 +17,38 @@
 # Domain Wanted : gravity.io.day 
 
 CNAME records:
-  - name: gravity
-    value: cname.vercel-dns.com.
+  - name: test
+    value: test.com
     proxy: true
+  - name: radio
+    value: denniskidman.github.io
+    proxy: false
+  - name: gravity
+    value: cname.vercel-dns.com
+    proxy: false
   
 
 # NS records are used to specify the authoritative name servers for the zone.
 # If you are unsure what NS records do, we recommend using CNAME records instead.
 # Please add your custom domain in this zone.
 NS records:
-  - name: test
-    value: ns1.vercel-dns.com
+- name: test
+    value: ns1.test.org
     ttl: "14400"
   - name: test
+    value: ns2.test.org
+    ttl: "14400"
+  - name: test
+    value: ns3.test.org
+    ttl: "14400"
+  - name: test
+    value: ns4.test.org
+    ttl: "14400"
+    # --------------------------
+  - name: gravity
+    value: ns1.vercel-dns.com
+    ttl: "14400"
+  - name: gravity
     value: ns2.vercel-dns.com
     ttl: "14400"
   
