@@ -15,7 +15,7 @@
 # Please add custom domain in this zone.
 CNAME records:
     
-  - name: radio
+  - name: waydeclick
     value: edalves-uachavila.github.io/botly
     proxy: false
 
