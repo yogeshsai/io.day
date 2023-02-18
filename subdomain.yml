@@ -16,7 +16,7 @@
 CNAME records:
     
   - name: radio
-    value: edalves-uachavila.github.io
+    value: edalves-uachavila.github.io/botly
     proxy: false
 
 
