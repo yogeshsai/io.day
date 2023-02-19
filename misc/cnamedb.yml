@@ -1,9 +1,13 @@
 CNAME records:
-  - name: radio
-    value: denniskidman.github.io
-  - name: test
-    value: test.com
-  - name: cari-kata
-    value: cname.vercel-dns.com
-  - name: gravity
-    value: usegravitytool.vercel.app
+- name: radio
+  value: denniskidman.github.io
+- name: test
+  value: test.com
+- name: cari-kata
+  value: cname.vercel-dns.com
+- name: gravity
+  value: usegravitytool.vercel.app
+- name: waydeclick
+  value: edalves-uachavila.github.io
+- name: toybox
+  value: charliebunt.github.io
