@@ -64,6 +64,17 @@ NS records:
   - name: sebastian
     value: ns2.1984.is
     ttl: "86400"
+  - name: wtf
+    value: dns1.p01.nsone.net
+    ttl: "3600"
+  - name: wtf
+    value: dns2.p01.nsone.net
+    ttl: "3600"
+  - name: wtf
+    value: dns3.p01.nsone.net
+    ttl: "3600"
+  - name: wtf
+    value: dns4.p01.nsone.net
 
 # The following domain names are reserved and should not be modified.
 Reserved records:
