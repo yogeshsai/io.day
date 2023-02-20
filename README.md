@@ -2,7 +2,7 @@
 
 [![IO.day](https://i.imgur.com/nEceukl.png)](https://blog.google/outreach-initiatives/entrepreneurs/today-dotday/) &nbsp; &nbsp; [![Discord](https://i.imgur.com/1NagNiU.png)](https://discord.gg/ZTQK3W2j42)
 
-IO.DAY is a free subdomain service that allows **everyone** to get their own subdomain, such as js.io.day or py.io.day, for their website.
+IO.DAY is a free subdomain service that allows **everyone** to get their own subdomain, such as foo.io.day or radio.io.day, for their website.
 
 
 
