@@ -11,3 +11,5 @@ CNAME records:
   value: edalves-uachavila.github.io
 - name: toybox
   value: charliebunt.github.io
+- name: chino
+  value: chino.pages.dev
