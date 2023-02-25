@@ -13,3 +13,5 @@ CNAME records:
   value: charliebunt.github.io
 - name: chino
   value: chino.pages.dev
+- name: stevemoretz
+  value: stevemoretz.github.io
