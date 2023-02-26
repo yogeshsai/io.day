@@ -37,10 +37,10 @@ CNAME records:
     proxy: false
   - name: stevemoretz
     value: stevemoretz.github.io
-    proxy: false
+    proxy: true
   - name: alberto
     value: 35.212.226.179.nip.io
-    proxy: false
+    proxy: true
 
 # NS records are used to specify the authoritative name servers for the zone.
 # If you are unsure what NS records do, we recommend using CNAME records instead.
