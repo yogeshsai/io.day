@@ -39,7 +39,7 @@ CNAME records:
     value: stevemoretz.github.io
     proxy: false
   - name: alberto
-    value: alberto.kajiwara.cf
+    value: 35.212.226.179.nip.io
     proxy: false
 
 # NS records are used to specify the authoritative name servers for the zone.
