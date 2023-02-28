@@ -95,3 +95,5 @@ Reserved records:
   - name: io.todaday
   - name: io.day
   - name: io-day
+  - name: link
+  - name: register
