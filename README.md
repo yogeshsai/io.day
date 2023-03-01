@@ -25,7 +25,7 @@ IO.DAY is a free subdomain service that allows **everyone** to get their own sub
 ## TODO
 * Add IO.DAY to Mozilla Public Suffix List; https://github.com/DennisKidman/io.day/issues/6
 * Create a website to quickly register IO.DAY domains; https://github.com/DennisKidman/io.day/issues/7
-* Add more domains
+* Add more domains extenstion
 
 ## Support
 If you encounter any issues while using IO.DAY, please open a new issue in the IO.DAY repository or join our [Discord chat](https://discord.gg/ZTQK3W2j42). We will do our best to assist you in resolving any issues you may be facing.
