@@ -20,6 +20,9 @@ CNAME records:
   - name: radio
     value: denniskidman.github.io
     proxy: false
+  - name: albinpraveen
+    value: albinpraveen.vercel.app
+    proxy: false
   - name: cari-kata
     value: cname.vercel-dns.com
     proxy: false
