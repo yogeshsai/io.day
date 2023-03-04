@@ -20,9 +20,6 @@ CNAME records:
   - name: radio
     value: denniskidman.github.io
     proxy: false
-  - name: albinpraveen
-    value: albinpraveen.vercel.app
-    proxy: false
   - name: cari-kata
     value: cname.vercel-dns.com
     proxy: false
@@ -46,6 +43,12 @@ CNAME records:
     proxy: true
   - name: betterlist
     value: a7532499-c7f0-4d84-b45a-7ba31e385693.id.repl.co
+    proxy: true
+  - name: albinpraveen
+    value: albinpraveen.vercel.app
+    proxy: false
+  - name: darkvibesrecords
+    value: 4bf630a3-445a-4ce1-8935-e1e2b2a86a91.id.repl.co
     proxy: true
 
 # NS records are used to specify the authoritative name servers for the zone.
@@ -101,5 +104,3 @@ Reserved records:
   - name: io.todaday
   - name: io.day
   - name: io-day
-  - name: link
-  - name: register
